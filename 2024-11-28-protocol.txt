@@ -1,0 +1,24 @@
+Protokol                           Kerim Softic 
+
+1.Git über die Website git-scm.com herunterladen
+2.git --version eingeben
+3.git version 2.47.1.windows.1 rausgekommen
+git config --global user.name "Kerim Softic" eingegeben
+git config --global user.email "k.softic@students.htl-leonding.ac.at" eingegeben
+git config --list eingegeben
+Name und Email wird angezeigt
+
+Protokol                           Kerim Softic 
+
+1. git cmd öffnen
+2. mkdir MeinProjekt neuen Ordner erstellen
+3. cd MeinProjekt in den Ordner reingehen
+4. git init eingeben erstellt neues Git-Repository
+5. echo "Das ist mein erstes Git-Projekt." > readme.txt erstellt neue Datei
+6. git add readme.txt eingeben
+7. git commit -m "Erste Version von readme.txt hinzugefügt" speichert Änderung im Repository
+8. auf GitHub neues Repository erstellen
+9.git remote add origin https://github.com/deinBenutzername/MeinProjekt.git  lokales Repository mit GitHub verbinden
+10.git push -u origin main funktioniert nicht kommt ein fehler raus
+
+
